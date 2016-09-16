@@ -9,13 +9,7 @@ Anything that doesn't work:
 
 Grade
 ===
-Final grade: 6/20
-
-## Main requirement was not met
-
-Your app doesn't show the greeting with the user's name, nor has the necessary code for doing it: **(-10)**
-
-I see you are displaying the text "Hello" just above the TextField, but you are not showing something like "Hello Andrea". The intent of *Program #1* was to see how you read the contents of an EditText and put that into a TextField, but here the TextField contains a fixed text.
+Final grade: 16/20
 
 ## Other unmet requirements:
 
